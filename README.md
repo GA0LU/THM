@@ -45,7 +45,7 @@ This script is designed to brute force 4-digit recovery codes for a password res
 
 3. **Run the script**:
    ```bash
-   python cracker.py
+   python Hammer-q1.py
    ```
 
 ---
@@ -74,13 +74,5 @@ Feel free to contribute to this project by submitting issues or pull requests. S
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
-
-## Author
-
-- **Your Name** (GitHub: [yourusername](https://github.com/yourusername))
-- Contact: your.email@example.com
